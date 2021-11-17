@@ -26,6 +26,12 @@ def get_disabled_bool(soup):
     return disabled_next
 
 ##################
+def check_is_number(value):
+    if value.isnumeric():
+       return int(value)
+    else:
+        return np.nan
+##################
 def get_info_auto(list_autos, df_as24):
 
     for item in list_autos:
@@ -58,32 +64,41 @@ def get_info_auto(list_autos, df_as24):
             list_li = child.find_all('li')
             for i, li_item in enumerate(list_li[0:len(list_features)]):
                 if list_features[i] == 'mileage':
-                    value = int(li_item.contents[0].strip().split(' ')[0].replace('.',''))
-                    df_as24.loc[n_row_df, list_features[i]] = value
+                    value = li_item.contents[0].strip().split(' ')[0].replace('.','')
+                    df_as24.loc[n_row_df, list_features[i]] = check_is_number(value)                    
                 elif list_features[i] == 'n_owners':
                     value = li_item.contents[0].strip().split()[0]
-                    if value.isnumeric():
-                        df_as24.loc[n_row_df, list_features[i]] = int(value)
-                    else:
-                        df_as24.loc[n_row_df, list_features[i]] = np.nan
+                    df_as24.loc[n_row_df, list_features[i]] = check_is_number(value)
     
                 else:
                     df_as24.loc[n_row_df, list_features[i]] = li_item.contents[0].strip()
     return df_as24
 ##################
+#list of autos to scrap
+list_marca = ['Fiat', 'BMW', 'Renault','Citroen','Peugeot']
+list_modello = ['Punto Evo', 'i3', 'ZOE','C_Zero','iOn']
+list_file_out_name = ['data/AS24_Punto_Evo.csv', 'data/AS24_BMWi3.csv','data/AS24_ZOE.csv','data/AS24_CZero.csv','data/AS24_iOn.csv']
+#set the auto to scrap
+pos=1
+marca = list_marca[pos]
+modello = list_modello[pos]
+csv_file_name = list_file_out_name[pos]
+pdb.set_trace()
+##################
+#run the scraper
 driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
 driver.get("https://www.autoscout24.it/")
-
-time.sleep(10)
+#
 #look for the brand input
+elem_marca = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.XPATH, "//input[@placeholder='Marca']")))
 elem_marca = driver.find_element(By.XPATH, "//input[@placeholder='Marca']")
-elem_marca.send_keys("Fiat")
+elem_marca.send_keys(marca)
 elem_marca.send_keys(Keys.RETURN)
 #
 time.sleep(3)
 #look for the model input
 elem_modello = driver.find_element(By.XPATH, "//input[@type='text'][@data-role='user-query'][@placeholder='Modello']")
-elem_modello.send_keys("Punto Evo")
+elem_modello.send_keys(modello)
 elem_modello.send_keys(Keys.RETURN)
 #
 time.sleep(3)
@@ -123,8 +138,8 @@ while not disabled_next:
     df_as24 = get_info_auto(list_autos, df_as24)
     #update the boolean
     disabled_next = get_disabled_bool(soup)
-
+    pdb.set_trace()
 #exit firefox
 driver.quit()
 #write a csv file
-df_as24.to_csv('AS24_Punto_Evo.csv')
+df_as24.to_csv(csv_file_name)
