@@ -14,7 +14,7 @@ Allo scopo di rispondere a queste domande, abbiamo raccolto i dati relativi alle
 + webpage2df.py: Codice Python che fa uso dei pacchetti Selenium e BeautifulSoap per il data scraping
 + as24_analysis.ipynb: prima esplorazione dei dati (EDA, Exploratory Data Analysis) per Fiat Punto Evo
 + as24_BMWi3.ipynb: lo stesso per BMW i3
-
++ report.pdf: presentazione dell'analisi e risultati
 ### Il progetto e' "work in progress..."
 
 ----------------------------------------------
@@ -35,5 +35,6 @@ We want to analyse them and building a predictive ML model.
 + webpage2df.py: Python code that makes use of Selenium and BeautifulSoap to scrap the data
 + as24_analysis.ipynb: initial EDA for Fiat Punto Evo
 + as24_BMWi3.ipynb: the same for BMW i3
++ report.pdf: slides with analysis and results outlined (in italian)
 
 ###the work is not completed and in progress...
