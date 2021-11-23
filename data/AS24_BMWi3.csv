@@ -1,247 +1,263 @@
-,model,version,equipments,mileage,mmyy,power,use_type,n_owners,gear,fuel_type,price
-0,BMW i3,Garanzia batterie e motore 12 mesi,['Brokar - Professional Car Brokerage - Intermediazione'],109954,08/2013,75 kW (102 CV),Usato,3,Automatico,Elettrica,12900
-1,BMW i3,I3 ELETTRICA PELLE LED NAVIGATORE BLUETOOTH,"['ESP, Cruise Control, Sistema di navigazione, Luci diurne, Freno di stazionamento elettrico, Climatizzatore, Controllo automatico clima, Fendinebbia']",59000,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,14900
-2,BMW i3,60 Ah (Range Extender),"['Chiusura centralizzata, Leve al volante, Fendinebbia, Bluetooth, Airbag laterali, Range extender, ESP, Fari LED']",68000,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,15200
-3,BMW i3,i3 *KM 21.000,"['Sistema di navigazione, Airbag laterali, Controllo automatico clima, Bluetooth, MP3']",21215,06/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,15800
-4,BMW i3,,"['Schermo multifunzione interamente digitale, Sistema di navigazione, Vetri oscurati, Telecamera per parcheggio assistito, Cerchi in lega, Sistema di parcheggio automatico, Sedili riscaldati, Fari LED']",76000,05/2015,125 kW (170 CV),Usato,,Manuale,Elettrica,16900
-5,BMW i3,bmw I3 ibrida RANGE EXTENDER,"['Climatizzatore, Sedile posteriore sdoppiato, Bluetooth, Cerchi in lega, Freno di stazionamento elettrico, Controllo automatico clima, Sensore di pioggia']",68000,10/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,16900
-6,BMW i3,(Range Extender),"['Chiusura centralizzata, Fendinebbia, Sensori di parcheggio assistito posteriori, Bluetooth, ESP, ABS, Airbag laterali, Climatizzatore']",50250,06/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,16900
-7,BMW i3,94 Ah,['NAVI PROF/FARI LED/RETROCAMERA ECC...'],26231,09/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,19950
-8,BMW i3,(Range Extender),"['Adaptive Cruise Control, Telecamera per parcheggio assistito, Chiusura centralizzata, Climatizzatore, Controllo automatico clima, Sistema di navigazione, Airbag laterali, Airbag conducente']",37360,05/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,20000
-9,BMW i3,94 Ah,,31000,02/2018,75 kW (102 CV),Usato,1,- (Tipo di cambio),Elettrica,21000
-10,BMW i3,(Range Extender) 94 ah IVA ESPOSTA,"['Airbag testa, Climatizzatore automatico, 2 zone, Specchietti laterali elettrici, Sedile posteriore sdoppiato, Fari LED, Freno di stazionamento elettrico, Bluetooth, Cerchi in lega']",51000,11/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,21500
-11,BMW i3,94 Ah (Range Extender),,36000,01/2017,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,23790
-12,BMW i3,94 Ah ADVANTAGE RANGE EXTENDER **ITALIANA**,"[""VETTURA UNIPRO', KM CERTIFICATI E CRONOLOGIA TAGLIANDI""]",30000,03/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,24500
-13,BMW i3,94ah,"['Fari direzionali, Cerchi in lega, Alzacristalli elettrici, Isofix, Specchietti laterali elettrici, Servosterzo, Sedile posteriore sdoppiato']",23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,25900
-14,BMW i3,s 120 Ah 184 cv,['Auto visibile in sede. Possibilità di finanziamento'],47000,06/2018,135 kW (184 CV),Usato,1,Automatico,Elettrica,26900
-15,BMW i3,,"['Sistema di navigazione, Airbag conducente, Airbag laterali, ABS, Climatizzatore, Chiusura centralizzata, Controllo automatico trazione, Alzacristalli elettrici']",5385,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,28900
-16,BMW i3,i3s 120 Ah performance- navigatore grande full,"['360° camera, ABS, Head-up display, Pacchetto sportivo, Telecamera per parcheggio assistito, Marmitta catalitica, Sound system, Sedili massaggianti']",19000,11/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,29400
-17,BMW i3,120Ah,['ACQUISTIAMO AUTO USATE CON PAGAMENTO IMMEDIATO'],9500,12/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,34900
-18,BMW i3,120 Ah Advantage,['A.D.Motor Concessionaria Ufficiale BMW e MINI'],9000,11/2020,75 kW (102 CV),Usato,,Automatico,Elettrica,35800
-19,BMW i3,s 120Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,40900
-20,BMW i3,i3 Elettrica Led tetto DAB Full Optional,,135000,12/2014,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,14200
-21,BMW i3,GaranziaBMW-EsenteBollo5Anni-Legge104-Ecobonus,,43600,08/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,14900
-22,BMW i3,cerchi 19 pelle navi grande tetto apribile,,65300,12/2013,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,14900
-23,BMW i3,"*LED* *NAVI PROFESSIONAL* *CERCHI 19""* *CRUISE*",,86000,05/2014,75 kW (102 CV),Usato,2,Automatico,Elettrica,14900
-24,BMW i3,60Ah ,,59000,01/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,15390
-25,BMW i3,i3,,117000,11/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,15900
-26,BMW i3,PERMUTE CON TOP CAR//GARANZIA//VACANZA OMAGGIO,,98000,08/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,15900
-27,BMW i3,- EcoBonus 2021 - 60 Ah,,40000,08/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,15990
-28,BMW i3,,,50000,04/2014,75 kW (102 CV),Usato,2,- (Tipo di cambio),Elettrica,16000
-29,BMW i3,UNICO PROPRIETARIO 80.000 KILOMETRI NO BOLLO!!!,,80000,12/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,16400
-30,BMW i3,i3*NAVI PROFF*TETTI PANO*CERCHI DIMANTATI,,30000,05/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,16490
-31,BMW i3,Full Full optional,,61000,04/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,16500
-32,BMW i3,i3,,50000,03/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,16600
-33,BMW i3,,,68000,02/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,16650
-34,BMW i3,60Ah,,69000,03/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,16900
-35,BMW i3,64 h,,68000,11/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,16950
-36,BMW i3,i3 60 Ah (Range Extender),,92000,05/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,17000
-37,BMW i3,FULL ELECTRIC 170CV IVA 22% DEDUCIBILE COMPRESA,,22300,11/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,17000
-38,BMW i3,Full Optionals,,48000,12/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,17250
-39,BMW i3,RANGE EXTENDER,,53700,09/2015,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,17990
-40,BMW i3,REX 94 Ah RANGE EXTENDER,,134000,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,18000
-41,BMW i3,(Range Extender),,59869,12/2014,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,18400
-42,BMW i3,60 Ah 102 CV Aut.,,22000,12/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,18490
-43,BMW i3,60 Ah 102 CV Aut.,,22000,12/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,18490
-44,BMW i3,(Range Extender),,50000,01/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,18900
-45,BMW i3,60 Ah (Range Extender),,58264,04/2015,125 kW (170 CV),Usato,2,Automatico,Elettrica,18900
-46,BMW i3,"(Range Extender) 60 Ah 102 CV ""SOLO 25000 KM !!!)",,25000,11/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,18900
-47,BMW i3,,,75000,09/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,18900
-48,BMW i3,,,73420,10/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,18990
-49,BMW i3,i3 94aH 170ch NAVI PRO/ FARI LED,,56000,11/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,19500
-50,BMW i3,Range Extender Navi Cerchi 19 Visibile in sede,,24500,06/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,19500
-51,BMW i3,Full REX 60ah,,86500,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,19500
-52,BMW i3,94 Ah,,44590,04/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,19600
-53,BMW i3,i3s (Range Extender),,16000,11/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,19900
-54,BMW i3,94 Ah,,105871,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica,19900
-55,BMW i3,LED/R19/NAVIGATORE/SEDILI RISCALDATI/ISOFIX,,22500,06/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,19900
-56,BMW i3,(Range Extender),,58982,01/2016,125 kW (170 CV),Usato,,Automatico,Elettrica/Benzina,19900
-57,BMW i3,94Ah,,13010,08/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,19980
-58,BMW i3,170 Cv - 94 Ah,,15000,06/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,19990
-59,BMW i3,(Range Extender),,37360,05/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,20000
-60,BMW i3,top ful ful optional,,150000,11/2013,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,20000
-61,BMW i3,94 Ah NAVI+VOLANTE MULTIFUNZIONE,,23661,11/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,20870
-62,BMW i3,94AH-BATTERIRE DI PROPRIETA',,41568,10/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,20900
-63,BMW i3,94 Ah navi,,52000,03/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,20900
-64,BMW i3,94 Ah (Range Extender),,48000,10/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,21200
-65,BMW i3,94Ah,,36562,06/2017,125 kW (170 CV),Usato,,Automatico,Elettrica,21500
-66,BMW i3,94 AH RANGE EXTENDER **LED-NAVI-CARICA RAPIDA**,,63000,03/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,21500
-67,BMW i3,I3S 94,,51000,11/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,21600
-68,BMW i3,i3 94 Ah (Range Extender),,63000,10/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,21900
-69,BMW i3,i3s - 170 CV - AZIENDALI BMW - F24 PAGATO,,18000,03/2018,125 kW (170 CV),Usato,,Automatico,Elettrica,21900
-70,BMW i3,"94 Ah, FARI LED, KAMERA POSTERIORE",,39500,01/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,22100
-71,BMW i3,94 Ah,,42463,07/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,22500
-72,BMW i3,94 Ah,,42463,07/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,22500
-73,BMW i3,ADVANCED 94 Ah 170 CV FULL OPTIONAL Garanzia,,24000,01/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,22890
-74,BMW i3,94 Ah (Range Extender),,105000,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,22900
-75,BMW i3,94 Ah (Range Extender),,105000,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,22900
-76,BMW i3,94 Ah,,36000,06/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,22900
-77,BMW i3,94 Ah (Range Extender),,37000,01/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,22900
-78,BMW i3,94 Ah RANG EXTENDER,,38000,04/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,23000
-79,BMW i3,94 Ah|LIST.NUOVA46K|SERVICE BMW|MY2018|E6C|,,23000,12/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,23000
-80,BMW i3,"94 Ah 170CV LED , ",,22600,04/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,23100
-81,BMW i3,94 Ah (Range Extender),,26475,09/2017,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,23400
-82,BMW i3,i3,,9350,11/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,23400
-83,BMW i3,i3 94Ah Range Extender,,37000,10/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,23500
-84,BMW i3,94 Ah,,40619,01/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,23500
-85,BMW i3,94 AH S Range Extender Automatic,,36400,02/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,23500
-86,BMW i3,94 Ah,,4600,07/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,23500
-87,BMW i3,i3 94 Ah Navi Telecamera Pdc Unico Propriet.,,26500,09/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,23600
-88,BMW i3,120 Ah Advantage,,69857,12/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,23800
-89,BMW i3,-USATO GARANTITO BMW -,,29000,08/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,23890
-90,BMW i3,i3s 120 Ah Advantage*NAVI PROFESSIONAL*FULL OPT,,9900,05/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,23900
-91,BMW i3,"94AH RANGE EXTENDER CERCHI 20"" LED NAVI PRO",,50000,05/2018,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,23900
-92,BMW i3,"94AH RANGE EXTENDER CERCHI 20"" LED NAVI PRO",,50000,05/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,23900
-93,BMW i3,(I01) 120 Ah Advantage,,18345,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,23900
-94,BMW i3,94 Ah,,20500,06/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,23900
-95,BMW i3,,,27500,04/2018,75 kW (102 CV),Dimostrativo,1,Automatico,Elettrica,23950
-96,BMW i3,94h RANGE EXTENDER ANCHE NOLEGGIO,,31000,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,24000
-97,BMW i3,94 Ah (Range Extender) 170CV,,32000,01/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,24000
-98,BMW i3,94 Ah (Range Extender),,25000,11/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,24900
-99,BMW i3,94 Ah (Range Extender),,19683,07/2017,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,24900
-100,BMW i3,,,30900,04/2018,75 kW (102 CV),Dimostrativo,1,Automatico,Elettrica,24950
-101,BMW i3,"120 Ah 170CV LED NAVI DAB 19""",,28298,03/2019,125 kW (170 CV),Usato,1,- (Tipo di cambio),Elettrica,25250
-102,BMW i3,94h Range Extender Km 8.500 Xenon Navigatore,,8500,07/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,25400
-103,BMW i3,120 Ah Advantage,,19000,06/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,25500
-104,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,25900
-105,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,25900
-106,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,25900
-107,BMW i3,I3 120ah advantage,,25340,06/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,26320
-108,BMW i3,"120 Ah 170CV LED NAVI DAB 19"" ADVANTAGE",,12000,05/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,26500
-109,BMW i3,120Ah Advantage,,32478,09/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,26900
-110,BMW i3,120Ah Advantage,,32478,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,26900
-111,BMW i3,i3 ELETTRICA 8 ANNI GARANZIA,,24000,06/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,26990
-112,BMW i3,s 120 Ah Advantage,,33672,06/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,27900
-113,BMW i3,s EDrive Uniproprietario Pelle Navi Tetto,,35600,07/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,27900
-114,BMW i3,(Range Extender),,12605,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,27900
-115,BMW i3,120 Ah,,3295,12/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,27900
-116,BMW i3,(Range Extender),,12605,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,27900
-117,BMW i3,i3s Performance 184cvElettrica/Benz *Tetto *Radar,,18000,09/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,28400
-118,BMW i3,i3 ELETTRICA 8 ANNI GARANZIA,,10000,06/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,28490
-119,BMW i3,s,,12744,06/2018,75 kW (102 CV),Usato,,Manuale,Elettrica,28700
-120,BMW i3,120 Ah Advantage,,26487,07/2019,125 kW (170 CV),Usato,2,Automatico,Elettrica,28790
-121,BMW i3,s 120 Ah Advantage,,18080,05/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,28900
-122,BMW i3,s 94ah,,14726,02/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,28900
-123,BMW i3,s (Range Extender) Elettrica/Benzina *Led*Navi*,,5000,10/2018,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,28900
-124,BMW i3,120 Ah,,27580,05/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,28900
-125,BMW i3,s 120 Ah Advantage,,18080,05/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,28900
-126,BMW i3,,,5385,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,28900
-127,BMW i3,s 94ah,,14726,02/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,28900
-128,BMW i3,(Range Extender),,13270,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,28900
-129,BMW i3,(Range Extender),,13270,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,28900
-130,BMW i3,ADVANCED 170 CV RANGE EXTENDER GARANZIA,,25000,01/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,28990
-131,BMW i3,s 120 Ah Advantage,,21758,10/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,29000
-132,BMW i3,s 120 Ah Advantage,,21758,10/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,29000
-133,BMW i3,94 Ah Comfort Advanced,,9200,09/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,29000
-134,BMW i3,94 Ah,,17334,08/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,29600
-135,BMW i3,120 Ah Advantage,,23343,05/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,29800
-136,BMW i3,120 Ah Advantage,,23343,05/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,29800
-137,BMW i3,I01 BMW 120 Ah Advantage,,9320,05/2019,75 kW (102 CV),Usato,,Manuale,Elettrica,29900
-138,BMW i3,120 Ah Advantage,,6300,02/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,29900
-139,BMW i3,94 Ah Rex Fluid Grey Edition,,12450,12/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,29900
-140,BMW i3,s 120 Ah Advantage,,11331,02/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,30400
-141,BMW i3,120 Ah Advantage,,11331,02/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,30400
-142,BMW i3,120Ah Advantage,,22237,01/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,30500
-143,BMW i3,120 Ah Advantage,,22500,09/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,30500
-144,BMW i3,(I01) 120 Ah,,14860,07/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,30900
-145,BMW i3,120 Ah Advantage,,68000,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,30900
-146,BMW i3,i3s 120 Ah S,,15000,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,31400
-147,BMW i3,120 Ah,,2742,10/2020,125 kW (170 CV),Usato,,Automatico,Elettrica,31900
-148,BMW i3,120 Ah,,2742,10/2020,125 kW (170 CV),Usato,,Automatico,Elettrica,31900
-149,BMW i3,94 ah range extended autonomy,,5300,11/2019,75 kW (102 CV),Aziendale,1,Automatico,Elettrica,31900
-150,BMW i3,120 Ah Advantage Nav Xenon Km Cert *Italiana*,,5360,06/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,31999
-151,BMW i3,120 Ah Advantage,,5438,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,32500
-152,BMW i3,94 Ah Range Extender ELETTRICO,,41039,05/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,32800
-153,BMW i3,120 Ah Advantage,,2600,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,32900
-154,BMW i3,120Ah,,5729,10/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,32900
-155,BMW i3,120Ah Advantage,,8000,07/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,32900
-156,BMW i3,i3s 120 Ah Advantage,,21000,10/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,33500
-157,BMW i3,"Bmw, i3 94Ah Range Extender",,9859,04/2018,125 kW (170 CV),Usato,,Manuale,Benzina,33608
-158,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,33800
-159,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,33800
-160,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,33800
-161,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,33800
-162,BMW i3,94Ah Range Extender,,3537,11/2018,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,33900
-163,BMW i3,94Ah Range Extender,,3537,11/2018,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,33900
-164,BMW i3,"120 AH S BLACK PACK ADVANTAGE PDC 20"" CRUISE ACC",,4300,04/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,34500
-165,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-166,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-167,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-168,BMW i3,120 Ah Advantage *Pronta Consegna,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-169,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-170,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-171,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-172,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-173,BMW i3,120 Ah Advantage *Pronta Consegna,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-174,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-175,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-176,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34600
-177,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34800
-178,BMW i3,120 Ah,,16900,07/2020,75 kW (102 CV),Usato,,Automatico,Elettrica,34800
-179,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,34800
-180,BMW i3,120 Ah Advantage *Km zero,,100,09/2021,125 kW (170 CV),KM0,,Automatico,Elettrica,34900
-181,BMW i3,s 120 Ah Advantage,,5300,09/2020,75 kW (102 CV),Aziendale,,Automatico,Elettrica,34900
-182,BMW i3,120 Ah Advantage *Km zero,,100,09/2021,125 kW (170 CV),KM0,,Automatico,Elettrica,34900
-183,BMW i3,120Ah Advantage,,12142,07/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,34900
-184,BMW i3,120Ah Advantage,,12142,07/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,34900
-185,BMW i3,120Ah Advantage,,9100,02/2020,125 kW (170 CV),Dimostrativo,,Automatico,Elettrica,35000
-186,BMW i3,120 Ah Advantage,,11000,02/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,35000
-187,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,35300
-188,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,35300
-189,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,35300
-190,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,35300
-191,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,35300
-192,BMW i3,(I01) 120 Ah,,119,08/2019,1 kW (1 CV),KM0,,Automatico,Elettrica,35900
-193,BMW i3,s 120 Ah Advantage,,2239,02/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,35900
-194,BMW i3,s 120 Ah Advantage,,2239,02/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,35900
-195,BMW i3,I3 120ah advantage,,2900,05/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,36900
-196,BMW i3,S 94Ah RANGE EXTENDER TETTO APRIBILE CERCHI DA 20,,33091,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,36900
-197,BMW i3,120 Ah,,3466,07/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,37000
-198,BMW i3,120 Ah,,3466,07/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,37000
-199,BMW i3,,,1005,04/2014,125 kW (170 CV),Usato,1,Automatico,Elettrica,37000
-200,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,37500
-201,BMW i3,BMW I3S 120AH,,6244,03/2020,135 kW (184 CV),Usato,,Automatico,Elettrica,37500
-202,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,37500
-203,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,37500
-204,BMW i3,120 Ah Advantage,,20,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,37900
-205,BMW i3,120 Ah Advantage,,20,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,37900
-206,BMW i3,120Ah Advantage,,8500,11/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,38000
-207,BMW i3,s 120 Ah Advantage,,,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,38370
-208,BMW i3,120 Ah Advantage,,1,11/2021,75 kW (102 CV),KM0,,Manuale,Elettrica,38400
-209,BMW i3,s 120 Ah Advantage,,4985,05/2020,135 kW (184 CV),Usato,,Automatico,Elettrica,39900
-210,BMW i3,120Ah,,9850,11/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,39900
-211,BMW i3,S,,1799,02/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,40400
-212,BMW i3,S,,1799,02/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,40400
-213,BMW i3,120Ah Advantage,,1,07/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,40549
-214,BMW i3,s 120Ah Advantage,,11500,07/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,40900
-215,BMW i3,s 120Ah,,100,03/2021,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,41000
-216,BMW i3,s 120Ah,,100,03/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,41000
-217,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,41300
-218,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,41300
-219,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,41300
-220,BMW i3,i3 120Ah Advantage,,7000,06/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,41600
-221,BMW i3,i3s 120Ah Advantage,,10,09/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,42000
-222,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,42113
-223,BMW i3,s 120 Ah Advantage,,4146,07/2020,135 kW (184 CV),Usato,1,Automatico,Elettrica,43000
-224,BMW i3,s 120 Ah Advantage,,2440,07/2020,135 kW (184 CV),Usato,1,Automatico,Elettrica,43000
-225,BMW i3,i3s 120Ah Advantage,,4146,07/2020,75 kW (102 CV),Usato,1,Automatico,Elettrica,43000
-226,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,43083
-227,BMW i3,s 120Ah,,,- (Anno),135 kW (184 CV),Nuovo,,Automatico,Elettrica,43500
-228,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,43704
-229,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,44091
-230,BMW i3,120Ah Advantage,,7100,10/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,44957
-231,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45819
-232,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45873
-233,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45900
-234,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45900
-235,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45900
-236,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45900
-237,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,45900
-238,BMW i3,120Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,47300
-239,BMW i3,s 120Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,48000
-240,BMW i3,s 120 Ah Aut. LISTINO € 48.553,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,48553
-241,BMW i3,s 120 Ah Aut. LISTINO € 48.553,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,48553
-242,BMW i3,120Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,50700
-243,BMW i3,s 120Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,51100
-244,BMW i3,s 120Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,53800
-245,BMW i3,120 Ah Advantage,,1,09/2021,125 kW (170 CV),KM0,1,Automatico,Elettrica,54120
+,model,version,equipments,mileage,mmyy,power,use_type,n_owners,gear,fuel_type,seller_company_name,seller_CAP,seller_city,price
+0,BMW i3,Garanzia batterie e motore 12 mesi,['BMW i3'],109954,08/2013,75 kW (102 CV),Usato,3,Automatico,Elettrica,Brokar di Riccardo Gioè,20085,Locate di Triulzi MI,12900
+1,BMW i3,I3 ELETTRICA PELLE LED NAVIGATORE BLUETOOTH,"['Fari full-LED, Bluetooth, Airbag testa, Fari LED, Controllo automatico clima, Airbag posteriore, Volante multifunzione, Fari direzionali']",59000,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,Autobaselli Srl,25027,Quinzano d'Oglio - Brescia - Bs,14900
+2,BMW i3,60 Ah (Range Extender),"['Start/Stop Automatico, Volante in pelle, Chiusura centralizzata, Range extender, Chiusura centralizzata senza chiave, Fendinebbia, Airbag posteriore, ESP']",68000,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,BONERA SPA,25135,Brescia,15200
+3,BMW i3,i3 *KM 21.000,"['Cerchi in lega, Sistema di navigazione']",21215,06/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,Bc Car srl,72023,Mesagne BR,15800
+4,BMW i3,,"[""Vetri oscurati, Sistema di chiamata d'emergenza, Sedile posteriore sdoppiato, Fari full-LED, Sistema di avviso di distanza, Immobilizzatore elettronico, Frenata d'emergenza assistita, Chiusura centralizzata senza chiave""]",76000,05/2015,125 kW (170 CV),Usato,,Manuale,Elettrica,GV@Auto Srls,40068,San Lazzaro di Savena - Bo,16900
+5,BMW i3,bmw I3 ibrida RANGE EXTENDER,"['Cerchi in lega, Fendinebbia, Limitatore di velocità, ABS, Luci diurne LED']",68000,10/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,M.B. Motori Srl,37135,Verona,16900
+6,BMW i3,94 Ah,['IVA Esposta! Garanzia BMW fino al 04/2025! '],44590,04/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Okay Cars Srl,42020,Quattro Castella - Reggio Emilia - Re,19600
+7,BMW i3,94 Ah,['NAVI PROF/FARI LED/RETROCAMERA ECC...'],26231,09/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,M.P. Auto di Magnatta Paolo,10134,Torino - To,19950
+8,BMW i3,94Ah,['IVA Esposta! Garanzia BMW fino al 08/2025!!'],13010,08/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Okay Cars Srl,42020,Quattro Castella - Reggio Emilia - Re,19980
+9,BMW i3,(Range Extender),"['Airbag testa, Controllo elettronico della corsia, Chiusura centralizzata, Cerchi in lega, Cruise Control, Adaptive Cruise Control, Sistema di parcheggio automatico, Sensori di parcheggio assistito posteriori']",37360,05/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,BIRINDELLI @UTO SRL,50059,Vinci - Firenze - Fi,20000
+10,BMW i3,94 Ah,,31000,02/2018,75 kW (102 CV),Usato,1,- (Tipo di cambio),Elettrica,Msport Auto,25058,Sulzano - Brescia - Bs,21000
+11,BMW i3,(Range Extender) 94 ah IVA ESPOSTA,"['Bluetooth, Range extender, Fendinebbia, Fari LED, Airbag testa, Sensori di parcheggio assistito posteriori, Cerchi in lega, Specchietto retrovisore con funzione antiabbagliamento']",51000,11/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,Car System srl,24126,Bergamo - Bg,21500
+12,BMW i3,i3,,9350,11/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Tuacar srl,10024,Moncalieri -To,21900
+13,BMW i3,94 Ah (Range Extender),,36000,01/2017,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,TULLO PEZZO SRL,46030,San Giorgio Bigarello- Mantova,23790
+14,BMW i3,94 Ah ADVANTAGE RANGE EXTENDER **ITALIANA**,"[""VETTURA UNIPRO', KM CERTIFICATI E CRONOLOGIA TAGLIANDI""]",30000,03/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,Spazio Auto Srl,00178,Roma - Rm,24500
+15,BMW i3,94ah,"['Fari full-LED, Fari direzionali, Climatizzatore automatico, 2 zone, Fendinebbia, Controllo automatico trazione']",23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,CECCATO MOTORS SRL,35131,Padova - Pd,25900
+16,BMW i3,s,,31000,09/2018,135 kW (184 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",10100,torino,26900
+17,BMW i3,,"['Airbag testa, Chiusura centralizzata, Controllo automatico clima, Bluetooth, Cerchi in lega, Immobilizzatore elettronico, Sensori di parcheggio assistito posteriori, Servosterzo']",5385,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20097,San Donato Milanese - Milano - Mi,28900
+18,BMW i3,120Ah,['ACQUISTIAMO AUTO USATE CON PAGAMENTO IMMEDIATO'],9500,12/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,RIVOLTELLA SPA,24040,Arcene - Bergamo - Bg,34900
+19,BMW i3,120 Ah Advantage,['A.D.Motor Concessionaria Ufficiale BMW e MINI'],9000,11/2020,75 kW (102 CV),Usato,,Automatico,Elettrica,A.D. Motor spa,06132,Perugia - Pg,35800
+20,BMW i3,s 120Ah,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,BONERA SPA,25135,Brescia,40900
+21,BMW i3,60 Ah,,83908,02/2015,125 kW (170 CV),Usato,,Automatico,Elettrica,Gruppo Brandini,50019,Sesto Fiorentino - Firenze,13950
+22,BMW i3,i3 Elettrica Led tetto DAB Full Optional,,136000,12/2014,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",25100,Brescia,14200
+23,BMW i3,GaranziaBMW-EsenteBollo5Anni-Legge104-Ecobonus,,43600,08/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,Net Auto srls,00125,Roma,14900
+24,BMW i3,cerchi 19 pelle navi grande tetto apribile,,65300,12/2013,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",24100,Bergamo,14900
+25,BMW i3,60Ah ,,59000,01/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,A&P Cars Srl,00136,Roma - Rm,15390
+26,BMW i3,i3,,117000,11/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,Perito Group Srl,84036,Sala Consilina - Salerno - Sa,15900
+27,BMW i3,PERMUTE CON TOP CAR//GARANZIA//VACANZA OMAGGIO,,98000,08/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,Be Happy srl,00043,Ciampino - Rm,15900
+28,BMW i3,- EcoBonus 2021 - 60 Ah,,40000,08/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,AuGi Srl,23030,Villa di Tirano - Sondrio,15990
+29,BMW i3,,,50000,04/2014,75 kW (102 CV),Usato,2,- (Tipo di cambio),Elettrica,"Privato, ",70022,Altamura,16000
+30,BMW i3,UNICO PROPRIETARIO 80.000 KILOMETRI NO BOLLO!!!,,80000,12/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,Drecar Srl,25069,Villa Carcina - BS,16400
+31,BMW i3,i3*NAVI PROFF*TETTI PANO*CERCHI DIMANTATI,,30000,05/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,Soccol Giuseppe Cars e Boats,20154,Milano - Mi,16490
+32,BMW i3,Full Full optional,,61000,04/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,Specialcar,10081,Castellamonte - Torino - To,16500
+33,BMW i3,i3,,50000,03/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,Motorama Di Marx Berthold & Co. Kg/Sas,39028,Silandro - Bolzano - Bz,16600
+34,BMW i3,,,68000,02/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,MF Com Srl,37068,Vigasio - Verona,16650
+35,BMW i3,(Range Extender),,50250,06/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,AUTOBI SRL - SEDE BIAUTLET,16163,Genova - Ge,16800
+36,BMW i3,60Ah,,69000,03/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,Comer Sud Spa,95100,Misterbianco - Catania - Ct,16900
+37,BMW i3,64 h,,68000,11/2014,75 kW (102 CV),Usato,1,Automatico,Elettrica,AC Auto di Costa Jacopo,36010,Velo D'Astico - Vicenza - VI,16950
+38,BMW i3,i3 60 Ah (Range Extender),,92000,05/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,"Privato, ",39100,Bolzano,17000
+39,BMW i3,FULL ELECTRIC 170CV IVA 22% DEDUCIBILE COMPRESA,,22300,11/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,Autoecommerce Srl,40017,San Giovanni in Persiceto - Bologna - Bo,17000
+40,BMW i3,Full Optionals,,48000,12/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,Borgognoni Srl,00136,Roma - Rm,17250
+41,BMW i3,(Range Extender),,59869,12/2014,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,AUTOSTAR,31020,Carità di Villorba - Treviso,17900
+42,BMW i3,RANGE EXTENDER,,53700,09/2015,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,Dmotors Garage sas,26010,Ripalta Cremasca - Cr,17990
+43,BMW i3,REX 94 Ah RANGE EXTENDER,,134000,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,"Privato, ",10010,Parella TORINO,18000
+44,BMW i3,60 Ah 102 CV Aut.,,22000,12/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,Autoo srl,35142,Padova - PD,18490
+45,BMW i3,60 Ah 102 CV Aut.,,22000,12/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,Autoo,20129,Milano - MI,18490
+46,BMW i3,"(Range Extender) 60 Ah 102 CV ""SOLO 25000 KM !!!)",,25000,11/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,Silberauto Snc,20811,Cesano Maderno - Monza Brianza,18900
+47,BMW i3,60Ah (Range Extender),,50000,01/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,Clerici Auto Spa,22075,Lurate Caccivio - Como - Co,18900
+48,BMW i3,60 Ah (Range Extender),,58264,04/2015,125 kW (170 CV),Usato,2,Automatico,Elettrica,TS Auto di Tusa V.,35010,Villa Del Conte - Pd,18900
+49,BMW i3,,,75000,09/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,F.lli Galbiati snc,20061,Carugate - Milano - Mi,18900
+50,BMW i3,,,73420,10/2015,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW ROMA,00178,Roma - Rm,18990
+51,BMW i3,i3 94aH 170ch NAVI PRO/ FARI LED,,56000,11/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,Sabe Srl,33050,Bagnaria Arsa - Udine - Ud,19500
+52,BMW i3,Range Extender Navi Cerchi 19 Visibile in sede,,24500,06/2015,75 kW (102 CV),Usato,1,Automatico,Elettrica,Mv Fleming srls,00191,Roma - Rm,19500
+53,BMW i3,Full REX 60ah,,86500,10/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,"Privato, ",03100,Frosinone,19500
+54,BMW i3,i3s (Range Extender),,16000,11/2014,75 kW (102 CV),Usato,,Automatico,Elettrica,Longcars Srl,37139,Verona - Vr,19900
+55,BMW i3,94 Ah,,105871,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTO IKARO - ACTIVA SPA,39100,Bolzano - Bz,19900
+56,BMW i3,LED/R19/NAVIGATORE/SEDILI RISCALDATI/ISOFIX,,22500,06/2015,75 kW (102 CV),Usato,,Automatico,Elettrica,S.P. Rent srl,03039,Sora - Frosinone - FR,19900
+57,BMW i3,(Range Extender),,58982,01/2016,125 kW (170 CV),Usato,,Automatico,Elettrica/Benzina,NANNI NEMBER SRL - BRESCIA,25126,Brescia - Bs,19900
+58,BMW i3,170 Cv - 94 Ah,,15000,06/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,Dea,20847,Albiate - Monza e Brianza,19990
+59,BMW i3,(Range Extender),,37360,05/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,BIRINDELLI @UTO SRL,55060,Guamo - Lucca - Lu,20000
+60,BMW i3,top ful ful optional,,150000,11/2013,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",20132,Milano,20000
+61,BMW i3,94 Ah NAVI+VOLANTE MULTIFUNZIONE,,23661,11/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,Car Km Reali Snc,10043,Orbassano,20870
+62,BMW i3,94AH-BATTERIRE DI PROPRIETA',,41568,10/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,RossettoMotors srl,31027,Spresiano - Treviso - Tv,20900
+63,BMW i3,94 Ah navi,,52000,03/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Prontoauto Spa,33017,Collalto di Tarcento - Udine - Ud,20900
+64,BMW i3,94 Ah (Range Extender),,48000,10/2016,75 kW (102 CV),Usato,,Automatico,Elettrica,Motorgest-Liguria by Massimo Carrese,18038,Sanremo -Im,21200
+65,BMW i3,94 Ah,,27625,09/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Cambiomarcia Srl,42122,Reggio Emilia,21400
+66,BMW i3,94Ah,,36562,06/2017,125 kW (170 CV),Usato,,Automatico,Elettrica,Audi Zentrum Modena - Schiatti Motor Srl,41126,Modena - Mo,21500
+67,BMW i3,94 Ah (Range Extender),,105000,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,BRIXINA - ACTIVA SPA,39042,Bressanone - Bolzano - Bz,21500
+68,BMW i3,94 Ah (Range Extender),,105000,12/2016,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,ACTIVA SPA,38121,Trento - Tn,21500
+69,BMW i3,94 AH RANGE EXTENDER **LED-NAVI-CARICA RAPIDA**,,63000,03/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Giannauto Srl,20823,Lentate sul Seveso - Monza Brianza - Mb,21500
+70,BMW i3,I3S 94,,51000,11/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,"Privato, ",39100,Bolzano,21600
+71,BMW i3,i3 94 Ah (Range Extender),,63000,10/2017,75 kW (102 CV),Usato,2,Automatico,Elettrica,"Privato, ",59100,Prato,21900
+72,BMW i3,i3s - 170 CV - AZIENDALI BMW - F24 PAGATO,,18000,03/2018,125 kW (170 CV),Usato,,Automatico,Elettrica,1P Auto srl,00175,Roma - Rm,21900
+73,BMW i3,"94 Ah, FARI LED, KAMERA POSTERIORE",,39500,01/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,AZ Car 2018,00173,Roma,22100
+74,BMW i3,94 Ah,,42463,07/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20142,Milano - Mi,22500
+75,BMW i3,94 Ah,,42463,07/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20097,San Donato Milanese - Milano - Mi,22500
+76,BMW i3,ADVANCED 94 Ah 170 CV FULL OPTIONAL Garanzia,,24000,01/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,Just Limousine Srl,09122,Cagliari - Ca,22890
+77,BMW i3,94 Ah,,36000,06/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTO IKARO - ACTIVA SPA,39100,Bolzano - Bz,22900
+78,BMW i3,94 Ah (Range Extender),,37000,01/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,Sarma Service srl,21047,Mariano Comense - Como - CO,22900
+79,BMW i3,94 Ah RANG EXTENDER,,38000,04/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Fourwheels,20831,Seregno - Monza Brianza - Mb,23000
+80,BMW i3,94 Ah|LIST.NUOVA46K|SERVICE BMW|MY2018|E6C|,,23000,12/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,LP Motors Srl,10090,Rosta- Torino - To,23000
+81,BMW i3,"94 Ah 170CV LED , ",,22600,04/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,AZ Car 2018,00173,Roma,23100
+82,BMW i3,94 Ah (Range Extender),,26547,09/2017,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,Gruppo Brandini,50019,Sesto Fiorentino - Firenze,23400
+83,BMW i3,i3 94Ah Range Extender,,37000,10/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,"Privato, ",64026,Roseto degli Abruzzi,23500
+84,BMW i3,94 Ah,,40619,01/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20142,Milano - Mi,23500
+85,BMW i3,94 AH S Range Extender Automatic,,36400,02/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Garage di Elleci srls,24058,Romano di Lombardia - Bergamo - BG,23500
+86,BMW i3,94 Ah,,4600,07/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica,Extramotors - Gruppo Maccianti srl,58022,Follonica - Grosseto - Gr,23500
+87,BMW i3,i3 94 Ah Navi Telecamera Pdc Unico Propriet.,,26500,09/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,Due V Auto Srl Cr,20851,Lissone - Monza e Brianza - Mb,23600
+88,BMW i3,94 Ah,,33000,04/2018,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,Theorema srl,46047,Porto Mantovano - Mantova,23800
+89,BMW i3,120 Ah Advantage,,69857,12/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica,LARIO BERGAUTO SPA,24064,Grumello del Monte - Bergamo - BG,23800
+90,BMW i3,-USATO GARANTITO BMW -,,29000,08/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,1P Auto srl,00175,Roma - Rm,23890
+91,BMW i3,i3s 120 Ah Advantage*NAVI PROFESSIONAL*FULL OPT,,9900,05/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,Original Motors,00075,Lanuvio - Rm,23900
+92,BMW i3,"94AH RANGE EXTENDER CERCHI 20"" LED NAVI PRO",,50000,05/2018,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,Evolution Car Group Srl,00159,Roma - Rm,23900
+93,BMW i3,"94AH RANGE EXTENDER CERCHI 20"" LED NAVI PRO",,50000,05/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Evolution Car Group Srl,00159,Roma - Rm,23900
+94,BMW i3,94 Ah,,20500,06/2017,75 kW (102 CV),Usato,,Automatico,Elettrica,Mixauto Service Srl,04100,Borgo Piave - Latina - Lt,23900
+95,BMW i3,,,27500,04/2018,75 kW (102 CV),Dimostrativo,1,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,23950
+96,BMW i3,94h RANGE EXTENDER ANCHE NOLEGGIO,,31000,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,Fourwheels,20831,Seregno - Monza Brianza - Mb,24000
+97,BMW i3,94 Ah (Range Extender) 170CV,,32000,01/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Bresciani Automobili Srl,24059,Urgnano,24000
+98,BMW i3,94 Ah (Range Extender),,25000,11/2017,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,Autocentro Pomezia,00040,Pomezia - Roma - Rm,24900
+99,BMW i3,94 Ah (Range Extender),,19683,07/2017,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,24900
+100,BMW i3,,,30900,04/2018,75 kW (102 CV),Dimostrativo,1,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,24950
+101,BMW i3,"120 Ah 170CV LED NAVI DAB 19""",,28298,03/2019,125 kW (170 CV),Usato,1,- (Tipo di cambio),Elettrica,Top Auto Srl,39040,Varna Bressanone - Bolzano,25250
+102,BMW i3,94h Range Extender Km 8.500 Xenon Navigatore,,8500,07/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,Autoecommerce Srl,40017,San Giovanni in Persiceto - Bologna - Bo,25400
+103,BMW i3,120 Ah Advantage,,19000,06/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",47121,Forlì,25500
+104,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,CECCATO MOTORS SRL,31033,Castelfranco Veneto - Treviso - Tv,25900
+105,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,CECCATO MOTORS SRL,30173,Mestre - Ve,25900
+106,BMW i3,94ah,,23066,04/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,CECCATO MOTORS SRL,35020,Legnaro - Padova - Pd,25900
+107,BMW i3,94 Ah (Range Extender),,19950,03/2019,75 kW (102 CV),Dimostrativo,1,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,25950
+108,BMW i3,I3 120ah advantage,,25340,06/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,Carpoint Spa,00128,Roma - Rm,26320
+109,BMW i3,"120 Ah 170CV LED NAVI DAB 19"" ADVANTAGE",,12000,05/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,FM Car Srl,47042,Cesenatico - Forlì Cesena - Fc,26900
+110,BMW i3,120Ah Advantage,,32478,09/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,AUTOCLUB SPA,41123,Modena - Mo,26900
+111,BMW i3,120Ah Advantage,,32478,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,26900
+112,BMW i3,i3 ELETTRICA 8 ANNI GARANZIA,,24000,06/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Md multibrand Srl,20090,Cusago - Milano - Mi,26990
+113,BMW i3,s 120 Ah Advantage,,33672,06/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,Selecar Novara,28100,Novara - No,27900
+114,BMW i3,s EDrive Uniproprietario Pelle Navi Tetto,,35600,07/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Automobili Vendramini Srl,31046,Oderzo - Treviso,27900
+115,BMW i3,(Range Extender),,12605,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,ACTIVA SPA,38121,Trento - Tn,27900
+116,BMW i3,(Range Extender),,12605,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,BRIXINA - ACTIVA SPA,39042,Bressanone - Bolzano - Bz,27900
+117,BMW i3,i3s Performance 184cvElettrica/Benz *Tetto *Radar,,18000,09/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,Motors Monza Srl,20900,Monza Brianza - Mb,28400
+118,BMW i3,s,,12744,06/2018,75 kW (102 CV),Usato,,Automatico,Elettrica,Mantovani Srl,06083,Ospedalicchio - Perugia - Pg,28700
+119,BMW i3,120 Ah Advantage,,26487,07/2019,125 kW (170 CV),Usato,2,Automatico,Elettrica,BMW ROMA,00178,Roma - Rm,28790
+120,BMW i3,s 120 Ah Advantage,,18080,05/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,28900
+121,BMW i3,s 94ah,,14726,02/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,28900
+122,BMW i3,s (Range Extender) Elettrica/Benzina *Led*Navi*,,5000,10/2018,75 kW (102 CV),Usato,,Automatico,Elettrica/Benzina,SD Motors,00139,Roma - Rm,28900
+123,BMW i3,120 Ah,,27580,05/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20142,Milano - Mi,28900
+124,BMW i3,s 120 Ah Advantage,,18080,05/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,28900
+125,BMW i3,,,5385,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20142,Milano - Mi,28900
+126,BMW i3,s 94ah,,14726,02/2018,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,28900
+127,BMW i3,(Range Extender),,16270,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,ACTIVA SPA,38121,Trento - Tn,28900
+128,BMW i3,(Range Extender),,16270,11/2018,125 kW (170 CV),Usato,1,Automatico,Elettrica/Benzina,BRIXINA - ACTIVA SPA,39042,Bressanone - Bolzano - Bz,28900
+129,BMW i3,ADVANCED 170 CV RANGE EXTENDER GARANZIA,,25000,01/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,Just Limousine Srl,09122,Cagliari - Ca,28990
+130,BMW i3,s 120 Ah Advantage,,21758,10/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20142,Milano - Mi,29000
+131,BMW i3,s 120 Ah Advantage,,21758,10/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,BMW MILANO SRL,20097,San Donato Milanese - Milano - Mi,29000
+132,BMW i3,94 Ah Comfort Advanced,,9200,09/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,Car & Car Srl,20080,Zibido San Giacomo – Milano,29000
+133,BMW i3,i3s 120 Ah performance- navigatore grande full,,19000,11/2019,135 kW (184 CV),Usato,,Automatico,Elettrica,Motors Monza Srl,20900,Monza Brianza - Mb,29400
+134,BMW i3,94 Ah,,17334,08/2017,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOTORINO SPA,28100,Novara - No,29600
+135,BMW i3,120 Ah Advantage,,23343,05/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,29800
+136,BMW i3,120 Ah Advantage,,23343,05/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,29800
+137,BMW i3,(I01) 120 Ah,,14860,07/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOVANTI MILANO,20151,Milano - Mi,29900
+138,BMW i3,I01 BMW 120 Ah Advantage,,9320,05/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,Rent2Go Srl,20124,Milano,29900
+139,BMW i3,94 Ah Rex Fluid Grey Edition,,12450,12/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,Commerciale Automobili Srl,59100,Prato - Po,29900
+140,BMW i3,s 120 Ah Advantage,,11331,02/2019,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOTORINO SPA,26013,Crema - Cr,30400
+141,BMW i3,120 Ah Advantage,,11331,02/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOSTAR,33100,Tavagnacco - Udine - Ud,30400
+142,BMW i3,120Ah Advantage,,22237,01/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,Maldarizzi Automotive Spa,70100,Bari,30500
+143,BMW i3,120 Ah Advantage,,22500,09/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",27029,Vigevano,30500
+144,BMW i3,120 Ah Advantage,,68000,04/2019,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTO IKARO - ACTIVA SPA,39100,Bolzano - Bz,30900
+145,BMW i3,(I01) 120 Ah Advantage,,3603,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BRIANZA,20832,Desio - Monza Brianza - Mb,30900
+146,BMW i3,i3s 120 Ah Advantage,,20000,06/2019,135 kW (184 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",48124,RAVENNA,31000
+147,BMW i3,i3s 120 Ah S,,15000,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,Antares Srl,43036,Parma - PR,31400
+148,BMW i3,120 Ah,,2742,10/2020,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,31900
+149,BMW i3,120 Ah,,2742,10/2020,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,31900
+150,BMW i3,94 ah range extended autonomy,,5300,11/2019,75 kW (102 CV),Aziendale,1,Automatico,Elettrica,Klasseuno Srl,16152,Genova - Ge,31900
+151,BMW i3,120 Ah Advantage Nav Xenon Km Cert *Italiana*,,5360,06/2019,75 kW (102 CV),Usato,1,Automatico,Elettrica,Buanne Srl,81047,Macerata Campania - Ce,31999
+152,BMW i3,120 Ah Advantage,,5438,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOTORINO SPA,43122,Parma - Pr,32500
+153,BMW i3,94 Ah Range Extender ELETTRICO,,41039,05/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica,Pinauto Group spa,82010,Ceppaloni - Benevento,32800
+154,BMW i3,120 Ah Advantage,,2600,09/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,Unikamotors srls,00047,Marino - Roma - Rm,32900
+155,BMW i3,120Ah,,5729,10/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,32900
+156,BMW i3,120Ah Advantage,,8000,07/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,32900
+157,BMW i3,i3s 120 Ah Advantage,,21000,10/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,"Privato, ",00191,Roma,33500
+158,BMW i3,"Bmw, i3 94Ah Range Extender",,9859,04/2018,125 kW (170 CV),Usato,,Manuale,Benzina,Primovei Auto Srl,41051,Castelnuovo Rangone - Modena - Mo,33608
+159,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI BOLOGNA,40033,Casalecchio di Reno - Bologna - Bo,33800
+160,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI MILANO,20151,Milano - Mi,33800
+161,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI BRIANZA,20832,Desio - Monza Brianza - Mb,33800
+162,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI MONZA,20900,Monza - Monza Brianza - Mb,33800
+163,BMW i3,94Ah Range Extender,,3537,11/2018,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,ROMANO BRUNO SRL,15033,Casale Monferrato - Alessandria - Al,33900
+164,BMW i3,94Ah Range Extender,,3537,11/2018,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,ROLANDI AUTO SPA,15100,Alessandria - Al,33900
+165,BMW i3,"120 AH S BLACK PACK ADVANTAGE PDC 20"" CRUISE ACC",,4300,04/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,Pace Automobili srl,03013,Ferentino - FR,34500
+166,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+167,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+168,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+169,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+170,BMW i3,120 Ah Advantage *Pronta Consegna,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+171,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34600
+172,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+173,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+174,BMW i3,120 Ah Advantage *Pronta Consegna,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+175,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+176,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+177,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34600
+178,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34800
+179,BMW i3,120 Ah,,16900,07/2020,75 kW (102 CV),Usato,,Automatico,Elettrica,Pizzala Srl,20013,Magenta - Milano - Mi,34800
+180,BMW i3,120 Ah Advantage *Km Zero,,,- (Anno),125 kW (170 CV),Nuovo,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34800
+181,BMW i3,120 Ah Advantage *Km zero,,100,09/2021,125 kW (170 CV),KM0,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,34900
+182,BMW i3,s 120 Ah Advantage,,5300,09/2020,75 kW (102 CV),Aziendale,,Automatico,Elettrica,Appia Motor 71 Srl,00043,Ciampino - Roma – Rm,34900
+183,BMW i3,120 Ah Advantage *Km zero,,100,09/2021,125 kW (170 CV),KM0,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,34900
+184,BMW i3,120Ah Advantage,,12142,07/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,ROMANO BRUNO SRL,15033,Casale Monferrato - Alessandria - Al,34900
+185,BMW i3,120Ah Advantage,,12142,07/2019,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,ROLANDI AUTO SPA,15100,Alessandria - Al,34900
+186,BMW i3,120Ah Advantage,,9100,02/2020,125 kW (170 CV),Dimostrativo,,Automatico,Elettrica,Mobility.it - Km 0 - Gruppo Lario,20125,Milano - Mi,35000
+187,BMW i3,120 Ah Advantage,,11000,02/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,LARIO BERGAUTO SPA,23900,Lecco - Lc,35000
+188,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI BOLOGNA,40057,Granarolo dell'Emilia - Bologna - Bo,35300
+189,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI BOLOGNA,40033,Casalecchio di Reno - Bologna - Bo,35300
+190,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI MILANO,20151,Milano - Mi,35300
+191,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI BRIANZA,20832,Desio - Monza Brianza - Mb,35300
+192,BMW i3,120 Ah,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOVANTI MONZA,20900,Monza - Monza Brianza - Mb,35300
+193,BMW i3,s 120 Ah Advantage,,2239,02/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,35900
+194,BMW i3,(I01) 120 Ah,,119,08/2019,1 kW (1 CV),KM0,,Automatico,Elettrica,Paradiso Srl,88046,Lamezia Terme - Catanzaro - Cz,35900
+195,BMW i3,s 120 Ah Advantage,,2239,02/2021,135 kW (184 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,35900
+196,BMW i3,I3 120ah advantage,,2900,05/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,L'AUTOMOBILE SRL,03100,Frosinone - Fr,36900
+197,BMW i3,S 94Ah RANGE EXTENDER TETTO APRIBILE CERCHI DA 20,,33091,01/2018,75 kW (102 CV),Usato,1,Automatico,Elettrica/Benzina,Autounica Srl,25132,Brescia - Bs,36900
+198,BMW i3,120 Ah,,3466,07/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA,10024,Moncalieri - Torino - To,37000
+199,BMW i3,120 Ah,,3466,07/2019,125 kW (170 CV),Usato,,Automatico,Elettrica,AUTOCROCETTA SPA - FILIALE BIELLA,13900,Biella - Bi,37000
+200,BMW i3,,,1005,04/2014,125 kW (170 CV),Usato,1,Automatico,Elettrica,BMW ROMA SRL,00138,Roma - Rm,37000
+201,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOVANTI MONZA,20900,Monza - Monza Brianza - Mb,37500
+202,BMW i3,BMW I3S 120AH,,6244,03/2020,135 kW (184 CV),Usato,,Automatico,Elettrica,BIAUTO SRL - SEDE BIAUTLET,10036,Settimo Torinese - Torino - To,37500
+203,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BOLOGNA,40033,Casalecchio di Reno - Bologna - Bo,37500
+204,BMW i3,(I01) 120 Ah Advantage,,1500,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BOLOGNA,40057,Granarolo dell'Emilia - Bologna - Bo,37500
+205,BMW i3,120 Ah Advantage,,20,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,BIRINDELLI @UTO SRL,50059,Vinci - Firenze - Fi,37900
+206,BMW i3,120 Ah Advantage,,20,11/2020,125 kW (170 CV),Usato,1,Automatico,Elettrica,BIRINDELLI @UTO SRL,55060,Guamo - Lucca - Lu,37900
+207,BMW i3,120Ah Advantage,,8500,11/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,A.D. MOTOR SPA,06129,Perugia - Pg,38000
+208,BMW i3,s 120 Ah Advantage,,,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Ambrosi Auto Spa,05100,Terni - Tr,38370
+209,BMW i3,120 Ah Advantage,,1,11/2021,75 kW (102 CV),KM0,,Manuale,Elettrica,Ambrosi Auto Spa,05100,Terni - Tr,38400
+210,BMW i3,(I01) i3s 120 Ah Advantage,,1500,07/2021,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BOLOGNA,40057,Granarolo dell'Emilia - Bologna - Bo,38900
+211,BMW i3,(I01) i3s 120 Ah Advantage,,1500,07/2021,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BOLOGNA,40033,Casalecchio di Reno - Bologna - Bo,38900
+212,BMW i3,(I01) i3s 120 Ah Advantage,,1500,07/2021,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOVANTI MILANO,20151,Milano - Mi,38900
+213,BMW i3,(I01) i3s 120 Ah Advantage,,1500,07/2021,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOVANTI BRIANZA,20832,Desio - Monza Brianza - Mb,38900
+214,BMW i3,(I01) i3s 120 Ah Advantage,,1500,07/2021,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOVANTI MONZA,20900,Monza - Monza Brianza - Mb,38900
+215,BMW i3,i3s 120Ah Advantage,,11797,05/2020,75 kW (102 CV),Usato,,Automatico,Elettrica,Gino Spa,17031,Albenga - Savona - Sv,38900
+216,BMW i3,120Ah Advantage,,0,03/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,BONERA SPA,25135,Brescia,38900
+217,BMW i3,120Ah,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,39450
+218,BMW i3,120 Ah Advantage,,,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Ambrosi Auto Spa,05100,Terni - Tr,39544
+219,BMW i3,120Ah,,9850,11/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,M.CAR SPA,81030,Teverola - Caserta - Ce,39900
+220,BMW i3,s 120 Ah Advantage,,4985,05/2020,135 kW (184 CV),Usato,,Automatico,Elettrica,NANNI NEMBER SRL - BRESCIA,25126,Brescia - Bs,39900
+221,BMW i3,S,,1799,02/2021,75 kW (102 CV),Aziendale,,Automatico,Elettrica,AUTOEUR SRL,51100,Pistoia,40400
+222,BMW i3,S,,1799,02/2021,75 kW (102 CV),Aziendale,,Automatico,Elettrica,AUTOEUR SRL,50019,Osmannoro - Firenze - Fi,40400
+223,BMW i3,120Ah Advantage,,1,07/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,Ambrosi Auto Spa,05100,Terni - Tr,40549
+224,BMW i3,s 120Ah Advantage,,11500,07/2019,75 kW (102 CV),Usato,,Automatico,Elettrica,TULLO PEZZO SRL,46030,San Giorgio Bigarello- Mantova,40900
+225,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,GINO AUTO SRL,55041,Lido di Camaiore - Lucca,41300
+226,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,Gino Spa,12100,Cuneo - Cn,41300
+227,BMW i3,i3s 120 Ah,,1,12/2019,75 kW (102 CV),KM0,,Automatico,Elettrica,Gino Spa,57121,Livorno - Li,41300
+228,BMW i3,i3 120Ah Advantage,,7000,06/2021,75 kW (102 CV),Usato,,Automatico,Elettrica,"Privato, ",37100,VERONA,41600
+229,BMW i3,s 120Ah,,100,03/2021,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,AUTOCLUB SPA,41123,Modena - Mo,41600
+230,BMW i3,s 120Ah,,100,03/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,41600
+231,BMW i3,s 120 Ah Advantage,,14000,05/2021,75 kW (102 CV),Aziendale,,Automatico,Elettrica,NANNI NEMBER SRL - BRESCIA,25126,Brescia - Bs,42000
+232,BMW i3,i3s 120Ah Advantage,,10,09/2021,75 kW (102 CV),KM0,,Automatico,Elettrica,Automobili Valentino srl,20100,Milano - Mi,42000
+233,BMW i3,s 120 Ah Advantage,,4146,07/2020,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOSTAR,33100,Tavagnacco - Udine - Ud,43000
+234,BMW i3,s 120 Ah Advantage,,2440,07/2020,135 kW (184 CV),Usato,1,Automatico,Elettrica,AUTOTORINO SPA,43122,Parma - Pr,43000
+235,BMW i3,i3s 120Ah Advantage,,4146,07/2020,75 kW (102 CV),Usato,1,Automatico,Elettrica,Autotorino Spa,33100,Tavagnacco - Udine - Ud,43000
+236,BMW i3,120 Ah,,0,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,43080
+237,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,43083
+238,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,43248
+239,BMW i3,s 120Ah,,,- (Anno),135 kW (184 CV),Nuovo,,Automatico,Elettrica,NANNI NEMBER SRL - BRESCIA,25126,Brescia - Bs,43500
+240,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,43704
+241,BMW i3,s 120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,44091
+242,BMW i3,120 Ah Aut. LISTINO € 48.706,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,FIMAUTO SPA,37136,Verona - Vr,44900
+243,BMW i3,120 Ah Aut. LISTINO € 48.706,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOGEMELLI,36100,Vicenza - Vi,44900
+244,BMW i3,120Ah Advantage,,7100,10/2020,75 kW (102 CV),Usato,,- (Tipo di cambio),Elettrica,TULLO PEZZO SRL,46030,San Giorgio Bigarello- Mantova,44957
+245,BMW i3,120 Ah Advantage,,0,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,45750
+246,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,45819
+247,BMW i3,120 Ah Advantage,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,SASSUOLAUTO SERVICE SRL,42013,Veggia Casalgrande - Reggio Emilia - Re,45873
+248,BMW i3,120 Ah Aut. LISTINO € 50.523,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,FIMAUTO SPA,37136,Verona - Vr,45900
+249,BMW i3,120 Ah Aut. LISTINO € 50.523,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOGEMELLI,36100,Vicenza - Vi,45900
+250,BMW i3,120 Ah Aut. LISTINO € 50.042,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,FIMAUTO SPA,37136,Verona - Vr,46500
+251,BMW i3,120 Ah Aut. LISTINO € 50.042,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOGEMELLI,36100,Vicenza - Vi,46500
+252,BMW i3,s 120 Ah,,0,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,46990
+253,BMW i3,120Ah Advantage,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,47300
+254,BMW i3,s 120Ah Advantage,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,BONERA SPA,25135,Brescia,48000
+255,BMW i3,s 120 Ah Aut. LISTINO € 48.553,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,AUTOGEMELLI,36100,Vicenza - Vi,48553
+256,BMW i3,s 120 Ah Aut. LISTINO € 48.553,,,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,FIMAUTO SPA,37136,Verona - Vr,48553
+257,BMW i3,s 120 Ah Advantage,,0,11/2021,75 kW (102 CV),Nuovo,,Automatico,Elettrica,Euro Target - MultiIdee MultiAuto MultiMarche,40066,Pieve Di Cento - Bologna - Bo,49670
+258,BMW i3,120Ah Advantage,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,50700
+259,BMW i3,s 120Ah Advantage,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,51100
+260,BMW i3,s 120Ah Advantage,,0,- (Anno),75 kW (102 CV),Nuovo,,Automatico,Elettrica,REGGIO MOTORI SPA,42124,Reggio Emilia - Re,53800
+261,BMW i3,120 Ah Advantage,,1,09/2021,125 kW (170 CV),KM0,1,Automatico,Elettrica,AUTOTORINO SPA,21057,Olgiate Olona - Varese - Va,54120
