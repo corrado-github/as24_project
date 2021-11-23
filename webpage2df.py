@@ -62,6 +62,22 @@ def get_info_auto(list_autos, df_as24):
         price = get_price(price_row)
         df_as24.loc[n_row_df,'price'] = price
         #
+        seller_company_row = item.find_all('div',{'class':"cldf-summary-seller-company-name", 'data-test':"company-name"})
+        if len(seller_company_row) > 0: #if it is a company
+            df_as24.loc[n_row_df,'seller_company_name'] = seller_company_row[0].contents[0]
+            seller_address = item.find_all('span',{'class':"cldf-summary-seller-contact-zip-city"})
+            address_cap = seller_address[0].contents[0].strip().split(' ')[0]
+            df_as24.loc[n_row_df,'seller_city'] = ' '.join(seller_address[0].contents[0].strip().split(' ')[1:])
+            df_as24.loc[n_row_df,'seller_CAP'] = address_cap
+        else: #if it is a private
+            seller_type_row = item.find_all('div',{'data-test':"seller-type"})
+            df_as24.loc[n_row_df,'seller_company_name'] = seller_type_row[0].contents[0]
+            seller_address = item.find_all('span',{'class':"cldt-summary-seller-contact-zip-city"})
+            address_cap = seller_address[0].contents[0].strip().split(' ')[0]
+            df_as24.loc[n_row_df,'seller_city'] = ' '.join(seller_address[0].contents[0].strip().split(' ')[1:])
+            df_as24.loc[n_row_df,'seller_CAP'] = address_cap
+
+        #
         list_details = item.find_all('ul',{'data-item-name':"vehicle-details"})
     
         for child in list_details:
@@ -85,40 +101,51 @@ list_marca = ['Fiat', 'BMW', 'Renault','Citroen','Peugeot']
 list_modello = ['Punto Evo', 'i3', 'ZOE','C-Zero','iOn']
 list_file_out_name = ['data/AS24_Punto_Evo.csv', 'data/AS24_BMWi3.csv','data/AS24_ZOE.csv','data/AS24_CZero.csv','data/AS24_iOn.csv']
 #set the auto to scrap
-pos=4
+pos=1
 marca = list_marca[pos]
 modello = list_modello[pos]
 csv_file_name = list_file_out_name[pos]
 ##################
 #run the scraper
-driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
-driver.get("https://www.autoscout24.it/")
-#
-#look for the brand input
-elem_marca = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.XPATH, "//input[@placeholder='Marca']")))
-elem_marca = driver.find_element(By.XPATH, "//input[@placeholder='Marca']")
-elem_marca.send_keys(marca)
-elem_marca.send_keys(Keys.RETURN)
-#
-time.sleep(3)
-#look for the model input
-elem_modello = driver.find_element(By.XPATH, "//input[@type='text'][@data-role='user-query'][@placeholder='Modello']")
-elem_modello.send_keys(modello)
-elem_modello.send_keys(Keys.RETURN)
-#
-time.sleep(3)
-#click on search button
-driver.find_element(By.XPATH, "//button[@data-test-id='search-execution-car']").click()
-time.sleep(10)
-#parse the first page
-soup = BeautifulSoup(driver.page_source, features="lxml")
+scraper = True
+if scraper:
 
+    driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
+    driver.get("https://www.autoscout24.it/")
+    #
+    #look for the brand input
+    elem_marca = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.XPATH, "//input[@placeholder='Marca']")))
+    elem_marca = driver.find_element(By.XPATH, "//input[@placeholder='Marca']")
+    elem_marca.send_keys(marca)
+    elem_marca.send_keys(Keys.RETURN)
+    #
+    time.sleep(3)
+    #look for the model input
+    elem_modello = driver.find_element(By.XPATH, "//input[@type='text'][@data-role='user-query'][@placeholder='Modello']")
+    elem_modello.send_keys(modello)
+    elem_modello.send_keys(Keys.RETURN)
+    #
+    time.sleep(3)
+    #click on search button
+    driver.find_element(By.XPATH, "//button[@data-test-id='search-execution-car']").click()
+    time.sleep(10)
+    #parse the first page
+    soup = BeautifulSoup(driver.page_source, features="lxml")
+else:
+    #example used to fix the code
+    file_html = 'data/FiatPuntoEvoUsata.html'
+    f = open(file_html, 'r')
+    file_ = f.read()
+    f.close()
+    #
+    soup = BeautifulSoup(file_, 'html.parser')
 
 ##################
 #now, set the features columns and the dataframe
 
-list_features = ['mileage','mmyy','power','use_type','n_owners','gear','fuel_type']
-list_cols = ['model', 'version', 'equipments'] + list_features + ['price']
+list_features = ['mileage','mmyy','power','use_type','n_owners','gear','fuel_type'] 
+list_seller = ['seller_company_name', 'seller_CAP', 'seller_city']
+list_cols = ['model', 'version', 'equipments'] + list_features + list_seller + ['price']
 df_as24 = pd.DataFrame(columns=list_cols)
 #parse the auto's list
 list_autos = soup.find_all('div', class_="cl-list-element cl-list-element-gap")
@@ -142,7 +169,7 @@ while not disabled_next:
     list_autos = soup.find_all('div', class_="cl-list-element cl-list-element-gap")
     #get the data
     df_as24 = get_info_auto(list_autos, df_as24)
-    print(df_as24.tail())
+#    print(df_as24.tail())
     #update the boolean
     disabled_next = get_disabled_bool(soup)
 #    pdb.set_trace()
