@@ -13,8 +13,9 @@ Allo scopo di rispondere a queste domande, abbiamo raccolto i dati relativi alle
 
 ## I files
 + webpage2df.py: Codice Python che fa uso dei pacchetti Selenium e BeautifulSoap per il data scraping
-+ as24_analysis.ipynb: prima esplorazione dei dati (EDA, Exploratory Data Analysis) per Fiat Punto Evo
-+ as24_BMWi3.ipynb: lo stesso per BMW i3
++ as24_analysis.ipynb: Python Jupyter Notebook. Prima esplorazione dei dati (EDA, Exploratory Data Analysis) per Fiat Punto
+Evo. Impostazione modello XGBoost, controllo performace, e stima valore auto.
++ as24_BMWi3.ipynb: Come sopra per BMW i3.
 + report.pdf: presentazione dell'analisi e risultati
 
 ----------------------------------------------
@@ -33,6 +34,7 @@ We want to analyse them and building a predictive ML model.
 
 ## The files:
 + webpage2df.py: Python code that makes use of Selenium and BeautifulSoap to scrap the data
-+ as24_analysis.ipynb: initial EDA for Fiat Punto Evo
++ as24_analysis.ipynb: PythonJupyter Notebook. Initial EDA for Fiat Punto
+Evo, plots, XGBoost model set, training and tests, evaluation.
 + as24_BMWi3.ipynb: the same for BMW i3
 + report.pdf: slides with analysis and results outlined (in italian)
