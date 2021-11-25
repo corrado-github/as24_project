@@ -17,6 +17,7 @@ Allo scopo di rispondere a queste domande, abbiamo raccolto i dati relativi alle
 Evo. Impostazione modello XGBoost, controllo performace, e stima valore auto.
 + as24_BMWi3.ipynb: Come sopra per BMW i3.
 + report.pdf: presentazione dell'analisi e risultati
++ report_en.pdf: presentazione dell'analisi e risultati (Inglese)
 
 ----------------------------------------------
 
@@ -38,3 +39,4 @@ We want to analyse them and building a predictive ML model.
 Evo, plots, XGBoost model set, training and tests, evaluation.
 + as24_BMWi3.ipynb: the same for BMW i3
 + report.pdf: slides with analysis and results outlined (in italian)
++ report_en.pdf: slides with analysis and results outlined (in English)
