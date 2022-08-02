@@ -1,5 +1,5 @@
 # as24_project (Italiano, English below)
-### Piccolo progetto di data science per calcolare il prezzo di mercato di un'auto usata e identificare le auto con il miglior rapporto qualita'/prezzo
+### Progetto di data science per calcolare il prezzo di mercato di un'auto usata e identificare le auto con il miglior rapporto qualita'/prezzo
 
 
 Il progetto ha avuto origine dalla desiderio di un cliente di vendere la sua vecchia auto per comprarne una elettrica usata. La richiesta si puo' 
